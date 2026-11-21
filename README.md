@@ -21,6 +21,7 @@ These skill collections are git submodules in `skills/`:
 - `skills/security-audit-skill`: https://github.com/cloudflare/security-audit-skill
 - `skills/obsidian-skills`: https://github.com/kepano/obsidian-skills
 - `skills/elephant-goldfish-model`: https://github.com/google/elephant-goldfish-model
+- `skills/janestreet-agent-skills`: https://github.com/janestreet/agent_skills
 
 After you clone this repository, run `git submodule update --init` to get them.
 To update them to the latest version, run `git submodule update --remote`.

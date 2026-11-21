@@ -13,3 +13,6 @@
 [submodule "skills/elephant-goldfish-model"]
 	path = skills/elephant-goldfish-model
 	url = git@github.com:google/elephant-goldfish-model.git
+[submodule "skills/janestreet-agent-skills"]
+	path = skills/janestreet-agent-skills
+	url = git@github.com:janestreet/agent_skills.git
