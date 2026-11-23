@@ -22,6 +22,7 @@ These skill collections are git submodules in `skills/`:
 - `skills/obsidian-skills`: https://github.com/kepano/obsidian-skills
 - `skills/elephant-goldfish-model`: https://github.com/google/elephant-goldfish-model
 - `skills/janestreet-agent-skills`: https://github.com/janestreet/agent_skills
+- `skills/wolfram-system-modeler-ai-toolkit`: https://github.com/WolframResearch/system-modeler-ai-toolkit
 
 After you clone this repository, run `git submodule update --init` to get them.
 To update them to the latest version, run `git submodule update --remote`.

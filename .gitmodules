@@ -16,3 +16,6 @@
 [submodule "skills/janestreet-agent-skills"]
 	path = skills/janestreet-agent-skills
 	url = git@github.com:janestreet/agent_skills.git
+[submodule "skills/wolfram-system-modeler-ai-toolkit"]
+	path = skills/wolfram-system-modeler-ai-toolkit
+	url = git@github.com:WolframResearch/system-modeler-ai-toolkit.git
